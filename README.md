@@ -5,7 +5,7 @@ This flood mod uses code from Flood Extreme and a little bit from Flood - (pleas
 
 ## Credits
 
-* zPancho!: Flood DEMON <img width="32" height="32" alt="pancho" src="https://github.com/user-attachments/assets/0c57498a-10b0-4deb-8725-067b166371cc" />
+* zPancho!: Flood Demon <img width="32" height="32" alt="pancho" src="https://github.com/user-attachments/assets/0c57498a-10b0-4deb-8725-067b166371cc" />
 
 * DT Ryan: Flood Nightmare
 * birdekek: Flood Expanded
